@@ -1,0 +1,134 @@
+{
+  "lang": {
+    "message": "en"
+  },
+  "extName": {
+    "message": "Background Color Post"
+  },
+  "extDesc": {
+    "message": "Post with a color background."
+  },
+  "postContent": {
+    "message": "Post content"
+  },
+  "enterContent": {
+    "message": "Please enter the content to be posted"
+  },
+  "dropImage": {
+    "message": "Drag in an image"
+  },
+  "or": {
+    "message": "or"
+  },
+  "selectImage": {
+    "message": "Select an image"
+  },
+  "group": {
+    "message": "Group"
+  },
+  "getGroup": {
+    "message": "Get groups"
+  },
+  "option": {
+    "message": "Option"
+  },
+  "avatar": {
+    "message": "Avatar"
+  },
+  "groupName": {
+    "message": "Name"
+  },
+  "loginFail": {
+    "message": "Failed to get user ID. Please check if your account login is normal."
+  },
+  "validImages": {
+    "message": "Please select a valid image type."
+  },
+  "gettingGroup": {
+    "message": "Getting group"
+  },
+  "retrieveGroup": {
+    "message": "Retrieved @ groups"
+  },
+  "selectBackground": {
+    "message": "Please select a color background"
+  },
+  "posting": {
+    "message": "Posting content"
+  },
+  "success": {
+    "message": "Post successful"
+  },
+  "fail": {
+    "message": "Post failed"
+  },
+  "published": {
+    "message": "Published"
+  },
+  "timeline": {
+    "message": "Timeline"
+  },
+  "post": {
+    "message": "Post"
+  },
+  "3D": {
+    "message": "3D"
+  },
+  "illustration": {
+    "message": "Illustration"
+  },
+  "pureColor": {
+    "message": "Pure Color"
+  },
+  "animal": {
+    "message": "Animal"
+  },
+  "landscape": {
+    "message": "Landscape"
+  },
+  "texture": {
+    "message": "Texture"
+  },
+  "gradient": {
+    "message": "Gradient"
+  },
+  "festival": {
+    "message": "Festival"
+  },
+  "other": {
+    "message": "Ohter"
+  },
+  "food": {
+    "message": "Food"
+  },
+  "fruit": {
+    "message": "Fruit"
+  },
+  "sport": {
+    "message": "Sport"
+  },
+  "pattern": {
+    "message": "Pattern"
+  },
+  "messageBubble": {
+    "message": "Message Bubble"
+  },
+  "heartPattern": {
+    "message": "Heart Pattern"
+  },
+  "starrySky": {
+    "message": "Starry Sky"
+  },
+  "virtualAvatar": {
+    "message": "Virtual Avatar"
+  },
+  "plant": {
+    "message": "Plant"
+  },
+  "waiting": {
+    "message": "Wait @ seconds to continue."
+  },
+  "tutorial": {
+    "message": "https://dev-coco.github.io/post/Background-Color-Post-EN/"
+  }
+}

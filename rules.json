@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "modifyHeaders",
+      "requestHeaders": [
+        {
+          "operation": "set",
+          "header": "origin",
+          "value": "https://www.facebook.com"
+        }
+      ]
+    },
+    "condition": {
+      "regexFilter": "^https://(m|www)\\.facebook\\.com/.*$"
+    }
+  }
+]

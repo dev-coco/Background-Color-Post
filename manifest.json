@@ -1,0 +1,48 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_extName__",
+  "description": "__MSG_extDesc__",
+  "default_locale": "en",
+  "author": "Raz1ner",
+  "version": "1.0.4",
+  "action": {
+    "default_icon": "img/icon.png"
+  },
+  "icons": {
+    "128": "img/icon.png"
+  },
+  "background": {
+    "service_worker": "js/background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://dev-coco.github.io/Extension/Background-Color-Post/*"],
+      "js": ["js/extID.js"]
+    }
+  ],
+  "externally_connectable": {
+    "matches": ["https://dev-coco.github.io/Extension/Background-Color-Post/*"]
+  },
+  "web_accessible_resources": [{
+    "resources": ["js/inject.js"],
+    "matches": ["https://dev-coco.github.io/*"]
+  }],
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "ruleset_1",
+        "enabled": true,
+        "path": "rules.json"
+      }
+    ]
+  },
+  "permissions": [
+    "cookies",
+    "storage",
+    "declarativeNetRequest"
+  ],
+  "host_permissions": [
+    "https://*.facebook.com/*",
+    "https://dev-coco.github.io/Extension/Background-Color-Post/*"
+  ]
+}

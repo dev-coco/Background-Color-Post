@@ -1,0 +1,134 @@
+{
+  "lang": {
+    "message": "zh_CN"
+  },
+  "extName": {
+    "message": "彩色背景帖子"
+  },
+  "extDesc": {
+    "message": "发布彩色背景帖文。"
+  },
+  "postContent": {
+    "message": "帖文内容"
+  },
+  "enterContent": {
+    "message": "请输入需要发布的内容"
+  },
+  "dropImage": {
+    "message": "拖入图片"
+  },
+  "or": {
+    "message": "或"
+  },
+  "selectImage": {
+    "message": "选择图片"
+  },
+  "group": {
+    "message": "小组"
+  },
+  "getGroup": {
+    "message": "获取小组"
+  },
+  "option": {
+    "message": "选项"
+  },
+  "avatar": {
+    "message": "头像"
+  },
+  "groupName": {
+    "message": "名称"
+  },
+  "loginFail": {
+    "message": "获取用户 ID 失败，请检查账号登陆是否正常。"
+  },
+  "validImages": {
+    "message": "请选择有效的图片类型。"
+  },
+  "gettingGroup": {
+    "message": "正在获取小组"
+  },
+  "retrieveGroup": {
+    "message": "已获取 @ 个小组"
+  },
+  "selectBackground": {
+    "message": "请选择彩色背景"
+  },
+  "posting": {
+    "message": "正在发布帖文"
+  },
+  "success": {
+    "message": "发布成功"
+  },
+  "fail": {
+    "message": "发布失败"
+  },
+  "published": {
+    "message": "已发布"
+  },
+  "timeline": {
+    "message": "时间线"
+  },
+  "post": {
+    "message": "发布"
+  },
+  "3D": {
+    "message": "3D"
+  },
+  "illustration": {
+    "message": "插画"
+  },
+  "pureColor": {
+    "message": "纯色"
+  },
+  "animal": {
+    "message": "动物"
+  },
+  "landscape": {
+    "message": "风景"
+  },
+  "texture": {
+    "message": "花纹"
+  },
+  "gradient": {
+    "message": "渐变"
+  },
+  "festival": {
+    "message": "节日"
+  },
+  "other": {
+    "message": "其它"
+  },
+  "food": {
+    "message": "食物"
+  },
+  "fruit": {
+    "message": "水果"
+  },
+  "sport": {
+    "message": "体育"
+  },
+  "pattern": {
+    "message": "图案"
+  },
+  "messageBubble": {
+    "message": "消息气泡"
+  },
+  "heartPattern": {
+    "message": "心形图案"
+  },
+  "starrySky": {
+    "message": "星空"
+  },
+  "virtualAvatar": {
+    "message": "虚拟形象"
+  },
+  "plant": {
+    "message": "植物"
+  },
+  "waiting": {
+    "message": "等待 @ 秒后继续。"
+  },
+  "tutorial": {
+    "message": "https://dev-coco.github.io/post/Background-Color-Post/"
+  }
+}
